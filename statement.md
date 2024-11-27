@@ -6,8 +6,10 @@ This C template lets you get started quickly with a simple one-page playground.
 #include <stdio.h>
 
 int main() {
-	printf("Hello World!");
+  int a = 3 + 2;
+	printf("%d", a);
 }
+
 
 ```
 
